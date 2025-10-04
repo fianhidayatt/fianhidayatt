@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agellls/agellls/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agellls/agellls/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/agellls/agellls/output/github-contribution-grid-snake.svg">
+</picture>
+
 Hello everyone🙋🏽‍♂️, let me introduce myself. My name is M Alfian Nur Hidayat, a beginner in Web and Mobile Development from Indonesia 🇮🇩. Currently, I’m focused on learning and honing my skills to become a Professional Mobile Developer with Dart. Additionally, I’m also interested in console gaming and editing.<br><br>Personal matters:<br><br>🆕 I am currently learning to expand my knowledge of tech skills;<br>📚 I am learning Dart and Flutter;<br>📝 Feel free to ask anything, I’m happy to help;<br>📭 This is how you can contact me: fianhidayat92@gmail.com
 
 
